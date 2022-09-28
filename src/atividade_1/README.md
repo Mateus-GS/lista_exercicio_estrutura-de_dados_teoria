@@ -1,4 +1,6 @@
-# lista_exercicio_estrutura-de_dados_teoria
+# lista_exercicio_estrutura-de_dados_teoria 
+
+## ATIVIDADE 1
 
 Disciplina: **Estrutura de dados e análise de algoritmos - Teoria**
 
